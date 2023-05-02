@@ -1,0 +1,13 @@
+package BuildMoA.Starcraft;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class StarcraftApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
